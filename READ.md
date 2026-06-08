@@ -116,7 +116,7 @@ test.php           -> Veritabanı bağlantı testi
 
 login-bg.png       -> Giriş ve kayıt ekranı arka plan görseli
 
-dashboard.png      -> Yönetim paneli ekran görüntüsü
+dashboard.png      -> Yönetim paneli arka plan görseli
 
 
 ---
