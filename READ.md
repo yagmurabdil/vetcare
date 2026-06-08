@@ -97,15 +97,25 @@ Sistem içerisinde her hayvan için aşağıdaki bilgiler saklanabilmektedir:
 ## Dosya Yapısı
 
 add_pet.php        -> Yeni hasta ekleme ekranı
+
 config.php         -> Veritabanı bağlantı ayarları
+
 delete_pet.php     -> Hasta silme işlemi
+
 edit_pet.php       -> Hasta güncelleme işlemi
+
 index.php          -> Yönetim paneli
+
 login.php          -> Kullanıcı giriş ekranı
+
 logout.php         -> Oturum kapatma işlemi
+
 register.php       -> Kullanıcı kayıt ekranı
+
 test.php           -> Veritabanı bağlantı testi
+
 login-bg.png       -> Giriş ve kayıt ekranı arka plan görseli
+
 dashboard.png      -> Yönetim paneli ekran görüntüsü
 
 
@@ -153,7 +163,6 @@ Alanlar:
 
 ### Giriş Ekranı
 
-![Giriş Ekranı](login-bg.png)
 
 
 <img width="1440" height="801" alt="Ekran Resmi 2026-06-09 00 09 32" src="https://github.com/user-attachments/assets/a11f44b4-9f97-4965-ab46-0b582ba1875d" />
