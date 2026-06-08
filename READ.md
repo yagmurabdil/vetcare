@@ -197,6 +197,7 @@ Video bağlantısı:
 ## Geliştirenler
 
 **YAĞMUR DERİN ABDİL-22360859069**
+
 **NUR KÖM-23360859079**
 ---
 
