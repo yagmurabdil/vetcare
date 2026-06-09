@@ -178,7 +178,7 @@ Alanlar:
 
 ## Demo Videosu
 
-Video bağlantısı:
+Video bağlantısı:[Demo Videosu]https://youtu.be/U3eEIWLo1Qw?si=R9X2Q4Vo9sFSP6h9
 
 
 
